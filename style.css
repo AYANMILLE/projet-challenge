@@ -40,7 +40,7 @@ header a {
 }
 
 header a:hover {
-  background-color: black;
+  background-color: rgb(138, 138, 253);
 }
 
 header button {
